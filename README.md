@@ -21,3 +21,6 @@ bundle install
 ```
 rake db:create db:migrate bd:seed
 ```
+
+#### Project information:
+Ruby Version: 
