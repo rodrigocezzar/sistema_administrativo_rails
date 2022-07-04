@@ -19,7 +19,7 @@ git@github.com:rodrigocezzar/sistema_administrativo_rails.git
 bundle install
 ```
 ```
-rake db:create db:migrate bd:seed
+rake db:create db:migrate db:seed
 ```
 
 #### Project information:
