@@ -11,5 +11,13 @@ We will also learn to implement a series of useful features common to most APPs 
 
 #### Clone the project:
 ```
+git@github.com:rodrigocezzar/sistema_administrativo_rails.git
+```
 
+#### Go to the created folder and run through the terminal:
+```
+bundle install
+```
+```
+rake db:create db:migrate bd:seed
 ```
