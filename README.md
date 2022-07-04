@@ -23,5 +23,5 @@ rake db:create db:migrate bd:seed
 ```
 
 #### Project information:
-Ruby Version: 3.0.1/_
+Ruby Version: 3.0.1 <br />
 Rails Version: 6.1.3
